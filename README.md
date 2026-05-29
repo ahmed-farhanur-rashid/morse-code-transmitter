@@ -74,9 +74,7 @@ The full Arduino sketch is included in this repository.
 ---
 
 ## 📄 License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
-
-You may share and adapt this work with proper attribution, but not for commercial purposes.
+This project is licensed under MIT license. See license for more information.
 
 📄 [View Full License Terms](https://creativecommons.org/licenses/by-nc/4.0/)
 
