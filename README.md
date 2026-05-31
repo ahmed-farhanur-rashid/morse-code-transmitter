@@ -63,13 +63,13 @@ Install these using the **Library Manager** under **Sketch > Include Library > M
 
 The full Arduino sketch is included in this repository.
 
-➡️ [**View the Code**](./MorseCodeTransmitter.ino)
+➡️ [**View the Code**](./morse_code_transmitter.ino)
 
 ---
 
 ## 🛠️ Setup Diagram
 
-![Wiring Diagram](./Wiring_Diagram.png)
+![Wiring Diagram](./wiring_diagram.png)
 
 ---
 
